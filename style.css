@@ -1,0 +1,13 @@
+body 
+{
+ background-color: rgb(128, 245, 239);
+}
+#show_sketch
+{
+    float: right;
+}
+p
+{
+    padding-top: 10px;
+    font-size: 25px;
+}
